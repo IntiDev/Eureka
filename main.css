@@ -1,0 +1,17 @@
+.height-view {
+    height: 100vh;
+}
+
+#intro {
+    background-image: url("img/Mobile.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#gafas {
+    border: 3px solid white;
+    color: whitesmoke;
+    margin-left: 25%;
+    margin-top: 70vh;
+}

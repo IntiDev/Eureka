@@ -1,0 +1,22 @@
+h3 {
+    text-align: center;
+    margin: 5rem 2rem 2rem  2rem;
+}
+
+section > div >img {
+    border: 2px solid;
+    width: 150px;
+    height: 150px;
+}
+
+.b-green {
+    border-color: green;
+}
+
+.b-blue {
+    border-color: blue;
+}
+
+.b-yellow {
+    border-color: yellow;
+}
